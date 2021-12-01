@@ -1,2 +1,2 @@
 # Reseach-materials
-This reposotiry store all my open access research materials which may include data collection and analysis instruments, dataset, and all other supplemental meterials for research papers
+This reposotiry host all supplemental meterials for the research project "Technical Debt Decision Making in Software Startups"
